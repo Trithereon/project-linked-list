@@ -11,6 +11,7 @@ list.append("parrot");
 list.append("hamster");
 list.append("snake");
 list.append("turtle");
+// Test prepending nodes.
 list.prepend("mama");
 list.prepend("papa");
 list.prepend("vitamin");
