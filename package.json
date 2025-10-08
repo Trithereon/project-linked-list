@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "project-linked-list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Trithereon/template.git"
+    "url": "git+https://github.com/Trithereon/project-linked-list.git"
   },
   "keywords": [],
   "author": "Trithereon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Trithereon/template/issues"
+    "url": "https://github.com/Trithereon/project-linked-list/issues"
   },
-  "homepage": "https://github.com/Trithereon/template#readme",
+  "homepage": "https://github.com/Trithereon/project-linked-list#readme",
   "devDependencies": {
     "@eslint/js": "^9.31.0",
     "css-loader": "^7.1.2",
@@ -37,7 +37,6 @@
     "webpack-merge": "^6.0.1"
   },
   "dependencies": {
-    "date-fns": "^4.1.0",
     "modern-normalize": "^3.0.1"
   }
 }
